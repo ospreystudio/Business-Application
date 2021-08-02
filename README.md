@@ -1,5 +1,5 @@
-## VUE.JS APP BY JUSTIN MOREYL (Янюшкин Вадим)
-## Business Application
+## Business Application BY JUSTIN MOREYL (Янюшкин Вадим)
+
 [![N|Solid](https://i.ibb.co/vHpsNKL/logo.png)](https://nodesource.com/products/nsolid)
 ## Definition
 
