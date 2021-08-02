@@ -1,4 +1,4 @@
-## Business Application BY JUSTIN MOREYL (Янюшкин Вадим)
+## Business Application by Янюшкин Вадим
 
 [![N|Solid](https://i.ibb.co/vHpsNKL/logo.png)](https://nodesource.com/products/nsolid)
 ## Definition
